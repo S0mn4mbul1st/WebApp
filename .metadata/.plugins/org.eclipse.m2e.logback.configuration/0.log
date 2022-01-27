@@ -1,0 +1,54 @@
+2022-01-25 19:56:26,522 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-25 19:56:52,707 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\pom.xml.
+2022-01-25 19:56:52,734 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\pom.xml.
+2022-01-25 19:56:53,867 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:56:53,868 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\main\resources
+2022-01-25 19:56:54,068 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:56:54,068 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\test\resources
+2022-01-25 19:56:54,070 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\pom.xml.
+2022-01-25 19:56:54,336 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\pom.xml.
+2022-01-25 19:56:54,821 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:56:54,821 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\main\resources
+2022-01-25 19:56:54,822 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:56:54,823 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\test\resources
+2022-01-25 19:56:54,842 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:56:54,842 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\src\main\resources
+2022-01-25 19:56:54,844 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:56:54,844 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\src\test\resources
+2022-01-25 19:58:26,470 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\pom.xml.
+2022-01-25 19:58:26,536 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:58:26,536 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\main\resources
+2022-01-25 19:58:26,538 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:58:26,538 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\test\resources
+2022-01-25 19:58:27,103 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\pom.xml.
+2022-01-25 19:58:27,652 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:58:27,653 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\main\resources
+2022-01-25 19:58:27,654 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 19:58:27,654 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\target\m2e-wtp\web-resources\META-INF\maven\com.dbclass\WebApp\src\test\resources
+2022-01-25 19:58:27,655 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of com.dbclass_WebApp
+2022-01-25 19:58:27,656 [Worker-19: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for com.dbclass_WebApp
+2022-01-25 19:58:27,661 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 20:01:16,617 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-25 20:02:33,145 [Worker-10: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project WebApp already exists
+2022-01-25 20:02:33,148 [Worker-10: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project WebApp already exists
+2022-01-25 20:02:33,829 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\pom.xml.
+2022-01-25 20:02:34,391 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp/src/main/java
+2022-01-25 20:02:34,391 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp/src/test/java
+2022-01-25 20:02:35,623 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 2 sec
+2022-01-25 20:02:36,109 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 20:02:36,109 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\src\main\resources
+2022-01-25 20:02:36,112 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 20:02:36,112 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\src\test\resources
+2022-01-25 20:02:37,217 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 20:02:37,218 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\src\main\resources
+2022-01-25 20:02:37,219 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-25 20:02:37,219 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\src\test\resources
+2022-01-25 20:23:50,228 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-25 20:26:48,565 [Worker-15: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project WebApp already exists
+2022-01-25 20:26:48,568 [Worker-15: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project WebApp already exists
+2022-01-25 20:26:49,129 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbclass:WebApp:0.0.1-SNAPSHOT @ C:\Users\aimanov\eclipse-workspace\WebApp\src\main\java\pom.xml.
+2022-01-25 20:26:50,884 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp/src/main/java
+2022-01-25 20:26:50,885 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebApp/src/test/java
+2022-01-25 20:26:51,317 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 3 sec
+2022-01-26 20:33:43,600 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-26 20:56:15,374 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
